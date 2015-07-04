@@ -44,6 +44,8 @@ http://oleg.fi/graafi
 
 * [cyclejs/cycle-web](https://github.com/cyclejs/cycle-web) - The standard DOM Driver for Cycle.js based on virtual-dom, and other helpers
 
+* [pH200/cycle-react] (https://github.com/pH200/cycle-react) - An RxJS functional interface to Facebook's React.
+
 ### Utilities
 
 * [erykpiast/cyclejs-group](https://github.com/erykpiast/cyclejs-group) - Utility for CycleJS framework for reducing boilerplate when creating groups of streams.
